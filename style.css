@@ -1,0 +1,29 @@
+body {
+    background-color: blue;
+}
+
+p{
+    color: chartreuse;
+    
+    
+}
+
+.container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+     justify-content: center; 
+     align-items: center;
+     align-content: center;
+     height: auto;
+     width: auto;
+     background-color: black;
+      text-align: center;    
+      
+}
+
+.inputBoxes{
+    background-color: blueviolet;
+    width: 120px;
+}
